@@ -1,0 +1,3 @@
+com\pp\model\User.class
+com\pp\repository\LoginRepository.class
+com\pp\repository\RegistrationRepository.class

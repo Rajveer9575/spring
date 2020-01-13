@@ -1,0 +1,3 @@
+com\pp\controller\RegistrationController.class
+com\pp\validator\RegistrationValidator.class
+com\pp\controller\LoginController.class
